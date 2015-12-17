@@ -1,2 +1,2 @@
-# NativeAppsIOS
-Project for Native Apps II : IOS
+# Native Apps II : mobile apps for IOS
+
